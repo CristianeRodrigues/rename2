@@ -15,6 +15,7 @@ public class A {
     
     public void setA(int A){
         this.A = A;
+        System.out.println("class A");
     }
     
 }
