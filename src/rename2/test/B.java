@@ -5,7 +5,7 @@
  */
 package rename2.test;
 
-import rename2.A;
+import rename2.Alfa;
 
 /**
  *
@@ -13,7 +13,7 @@ import rename2.A;
  */
 public class B {
       int B;
-      A ClassA;
+      Alfa ClassA;
     
     public void setB(int B){
         this.B = B;

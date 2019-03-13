@@ -9,13 +9,13 @@ package rename2;
  *
  * @author Cristiane
  */
-public class A {
+public class Alfa {
     
     int A;
     
     public void setA(int A){
         this.A = A;
-        System.out.println("class A");
+        System.out.println("class ALFA");
     }
     
 }
